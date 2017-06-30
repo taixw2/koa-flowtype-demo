@@ -30,7 +30,7 @@ flow-typed
 
 4. install flow libs
 
-> flow lib list 
+> flow lib list ↓↓↓
 
 > @https://github.com/flowtype/flow-typed/tree/master/definitions/npm
 
@@ -40,6 +40,6 @@ flow-type install koa@2.x.x lodash2.x.x
 
 5. Declaring An Module
 
-Look in `flow-typed/modules.js`
+see in `flow-typed/modules.js`
 
 
